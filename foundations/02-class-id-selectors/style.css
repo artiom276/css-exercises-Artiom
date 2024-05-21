@@ -1,5 +1,5 @@
 .odd {
-    background-color: light red;
+    background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -11,4 +11,10 @@
 
 .odd.three {
     font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
