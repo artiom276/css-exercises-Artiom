@@ -5,6 +5,10 @@
 
 #two {
     color: blue;
-    font-size: 36;
+    font-size: 36px;
 
+}
+
+.odd.three {
+    font-size: 24px;
 }
